@@ -29,7 +29,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import cvxopt
 from sklearn import svm
-from random import gauss
 
 """### Data creation"""
 
